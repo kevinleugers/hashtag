@@ -13,6 +13,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'dotenv-rails'
+	gem 'guard-spork'
 end
 
 group :test do
